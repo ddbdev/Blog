@@ -1,7 +1,7 @@
 ## Login System using JWT
 ## Features
 
-- Full working Login and Registration API system with implementation of JWT and confirmation token on the registration.
+- Beta project of a blog with JWT authentication, role and permission management.
 - Usage of [JJWT](https://github.com/jwtk/jjwt)
 
 
@@ -18,8 +18,7 @@
 - [MySQL Connector](https://mvnrepository.com/artifact/mysql/mysql-connector-java)
 
 ## Roadmap
-- Better role management.
-- Implementation of frontend (included but not working at the moment)
+- Bugfix
 
 ## Appendix
 
