@@ -44,9 +44,11 @@ import java.util.stream.Collectors;
 public class JwtUsernameAndPasswordAuthenticationFilter extends UsernamePasswordAuthenticationFilter {
 
 
-
+    @Autowired
     private TokenService tokenService;
+    @Autowired
     private AuthenticationManager authenticationManager;
+    
     @Override
     public Authentication attemptAuthentication(HttpServletRequest request, HttpServletResponse response) throws AuthenticationException {
         try {
