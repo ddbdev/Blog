@@ -22,7 +22,7 @@
 
 ## Front end
 
-- Front end in [React](https://github.com/ddbdev/Blog-React)
+- Front end in [React](https://github.com/ddbdev/React-Blog)
 
 
 
